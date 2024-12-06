@@ -87,7 +87,3 @@ Sinta-se à vontade para contribuir com o projeto! Basta abrir um _pull request_
 
 ## 📄 **Licença**
 Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
-
----
-
-Se precisar de mais alguma coisa, é só pedir! 🚀
